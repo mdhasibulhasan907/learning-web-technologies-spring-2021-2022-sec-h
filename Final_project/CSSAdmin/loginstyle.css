@@ -1,0 +1,15 @@
+table{
+	background-color: blue;
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+body{
+	background-color: green;
+}
+
+.c1{
+  color:black;
+  background-color:red;
+}
